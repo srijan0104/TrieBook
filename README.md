@@ -1,1 +1,1 @@
-# TrieBook
+# CBTrie
